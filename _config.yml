@@ -1,0 +1,28 @@
+name: MyWhiteSpots
+favicon: null
+layout_spectrum: 0.06363833998329937
+typography_spectrum: 0.2653652986045927
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.28417509770952165
+  lightness: 0.5576539123430848
+  saturation: 0.4662988029886037
+  rhythmicContrast: 0.4222437897697091
+purpose: []
