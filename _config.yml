@@ -2,6 +2,7 @@ name: MyWhiteSpots
 favicon: null
 layout_spectrum: 0.06363833998329937
 typography_spectrum: 0.2653652986045927
+title: MyWhiteSpots
 cta:
   domain: null
   bucket: null
