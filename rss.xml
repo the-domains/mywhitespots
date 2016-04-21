@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MyWhiteSpots]]></title>
+        <description><![CDATA[MyWhiteSpots]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Apr 2016 03:08:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is the beginning of your journey with me. We both have vitiligo or white spots so I know how you feel. I was compelled to go deeper, so I became a holistic nutritionist to get to the root cause. Follow my path as I learn and share what I learn with you so that together we can stop the frustration and heal through nutrition. Are you ready? I'll be with you every step of the way ;-)</p>]]></description>
+            <link>undefinedthis-is-the-beginning-of-your-journey-with-me-we-both-have/index.html</link>
+            <guid isPermaLink="false">99690e72-3e66-4b80-bdcb-b5728416e1ad</guid>
+            <pubDate>Thu, 21 Apr 2016 03:08:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
